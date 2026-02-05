@@ -1,4 +1,4 @@
 #!/bin/bash
 set -e
 cd $(dirname $0)
-./quake3e.aarch64 +set fs_basegame baseoa +set fs_game oax +set protocol 71 +set fs_homepath $(pwd) 
+./quake3e.aarch64 +set fs_basegame baseoa +set fs_game oax +set protocol 71 +set fs_homepath $(pwd)
